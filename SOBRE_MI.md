@@ -1,3 +1,3 @@
 # Sobre mí
-Usuario de GitHub: <azogue>
-Grupo de prácticas: L1
+Usuario de GitHub: <azoguealejandro46-svg>
+Grupo de prácticas: L2
