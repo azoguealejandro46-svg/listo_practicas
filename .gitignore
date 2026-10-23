@@ -19,3 +19,4 @@ instance/
 *.log
 secreto.txt
 - .coverage
+- .coverage
